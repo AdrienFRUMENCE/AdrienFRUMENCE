@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2014 with 6 years of experience in building tools related to fraud detection.
 
 <p align="center">
-  <a href="mailto:adrien.frumence@autoritedelaconcurrence.fr?subject=Hello%20Adrien%20FRUMENCE"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Mail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adrien.frumence@autoritedelaconcurrence.fr?subject=Hello%20Adrien%20FRUMENCE"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=microsoft&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fr.linkedin.com/in/adrien-frumence-7473259a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
