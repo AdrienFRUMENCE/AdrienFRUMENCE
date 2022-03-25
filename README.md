@@ -9,10 +9,10 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Data-scientist at [French competition authority](https://www.autoritedelaconcurrence.fr/fr) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving, data-science and full-stack development.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2014 with 6 years of experience in frauds detection.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2014 with 6 years of experience in building tools related to fraud detection.\
 
 <p align="center">
-  <a href="mailto:brunotacca@gmail.com?subject=Hello%20Adrien%20FRUMENCE"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adrien.frumence@autoritedelaconcurrence.fr?subject=Hello%20Adrien%20FRUMENCE"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fr.linkedin.com/in/adrien-frumence-7473259a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
