@@ -6,8 +6,8 @@
 
 ### :space_invader: &nbsp;A propos de moi
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Je travaille actuellement à l'[autorité de la concurrence](https://www.autoritedelaconcurrence.fr/fr) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;J'aime la science et l'innovation.\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Je suis actuellement Data-scientist au sein de l'[autorité de la concurrence](https://www.autoritedelaconcurrence.fr/fr) \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;J'aime la donnée et l'innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionné par la résolution des problèmes orientés métiers, la valorisation des données et le developpement.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Je code depuis 2014 avec 6 années d'éxpriences à construire des outils orientés detection de fraudes
 
