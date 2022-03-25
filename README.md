@@ -6,7 +6,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Data-scientist at [French competition authority](https://www.autoritedelaconcurrence.fr/fr) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Data-scientist at [French competition authority](https://www.autoritedelaconcurrence.fr/en) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving, data-science and full-stack development.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2014 with 6 years of experience in building tools related to fraud detection.\
