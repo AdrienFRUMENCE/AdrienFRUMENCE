@@ -8,11 +8,11 @@
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Je suis actuellement Data-scientist au sein de l'[autorité de la concurrence](https://www.autoritedelaconcurrence.fr/fr) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;J'aime la donnée et l'innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionné par la résolution des problèmes orientés métiers, la valorisation des données et le developpement.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Je code depuis 2014 avec 6 années d'éxpriences à construire des outils orientés detection de fraudes
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionné par la résolution des problèmes orientés métier\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Je code depuis 2014 avec 6 années d'éxperiences à construire des outils de valorisation de la donnée
 
 <p align="center">
-  <a href="mailto:adrien.frumence@autoritedelaconcurrence.fr?subject=Bonjour%20Adrien%20FRUMENCE"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adrien.frumence@autoritedelaconcurrence.fr?subject=Bonjour%20Adrien%20FRUMENCE"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=microsoft&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fr.linkedin.com/in/adrien-frumence-7473259a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
@@ -20,7 +20,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Principales compétences tech</b></summary>
+  <summary><b>:computer: &nbsp;Principales compétences techniques</b></summary>
   <br/>
 
 ![Python](https://img.shields.io/badge/PYTHON-007396.svg?&style=flat&logo=python&logoColor=white)&nbsp;
