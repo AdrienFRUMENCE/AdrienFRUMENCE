@@ -24,7 +24,11 @@
   <br/>
 
 ![Python](https://img.shields.io/badge/PYTHON-007396.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-
+![Flask](https://img.shields.io/badge/FLASK-007396.svg?&style=flat&logo=flask&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FASTAPI-007396.svg?&style=flat&logo=fastapi&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/REACT-007396.svg?&style=flat&logo=react&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/VUE-007396.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/DOCKER-007396.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 
 <!--
 Python
